@@ -1,5 +1,7 @@
 # Tavily Search Demo
 
+![Tavily Search Demo](public/demo.png)
+
 A modern web application that demonstrates the usage of Tavily's AI search API with a beautiful JSON results viewer. This application allows you to perform advanced searches and displays results with AI-generated answers in a well-formatted JSON view.
 
 ## Features
